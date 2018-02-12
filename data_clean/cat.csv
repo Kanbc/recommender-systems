@@ -1,10 +1,10 @@
-,CATEGORY_ID,NAME_TH,NAME_EN
-0,2001,คอนโด,Condo
-1,2021,ห้องแต่งตัว,Walk-in Closet
-2,2002,ห้องทานอาหาร,Dining room
-3,2003,บ้านสวย,Home Decor
-4,1,ห้องนอน,Bedroom
-5,8,ห้องครัว,Kitchen
-6,6,ห้องนั่งเล่น,Living Room
-7,9,ห้องนอนเด็ก,Kids & Teens
-8,10,ห้องทำงาน,Office Furniture
+CATEGORY_ID,NAME_TH,NAME_EN
+2001,คอนโด,Condo
+2021,ห้องแต่งตัว,Walk-in Closet
+2002,ห้องทานอาหาร,Dining room
+2003,บ้านสวย,Home Decor
+1,ห้องนอน,Bedroom
+8,ห้องครัว,Kitchen
+6,ห้องนั่งเล่น,Living Room
+9,ห้องนอนเด็ก,Kids & Teens
+10,ห้องทำงาน,Office Furniture

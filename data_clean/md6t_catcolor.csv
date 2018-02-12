@@ -1,160 +1,160 @@
-,NODE,LTEXT,LTEXT_T
-0,CM,KITCHEN SET KOURMET,ชุดครัวครูเม่
-1,G6,BRONZE WAVE,บรอนซ์ เวฟ
-2,G7,COPPER GLOSS,คอปเปอร์ กรอส
-3,G8,CREAMY,ครีมมี่
-4,G9,PINK GOLD,พิงก์ โกลด์
-5,H1,BRONZE GLOSS,บรอนซ์ กรอส
-6,H2,DIM GREY,ดิม เกรย์
-7,H3,SYRUP BROWN,ไซรัปบราวน์
-8,H4,IRCON BROWN,เซอร์คอน บราวน์
-9,H5,AMBER BROWN,เอมเบอร์ บราวน์
-10,H6,FOREST MAPLE,ฟอร์เรส เมเปิ้ล
-11,H7,S1,S1
-12,H8,S2,S2
-13,H9,S3,S3
-14,I1,VC1,VC1
-15,I2,VC2,VC2
-16,I3,VC3,VC3
-17,I4,VC4,VC4
-18,I5,VC5,VC5
-19,I6,PN,PN
-20,I7,OA,OA
-21,I8,LT,LT
-22,I9,CT-F,CT-F
-23,J1,CT-H,CT-H
-24,J2,SL,SL
-25,J3,Ceramenta,Ceramenta
-26,J4,ORVIETO,ORVIETO
-27,J5,EUROSOFT,EUROSOFT
-28,J6,KING,KING
-29,J7,VINTANGE,VINTANGE
-30,J8,SPRESSO,SPRESSO
-31,J9,MARCO,MARCO
-32,K1,TORO,TORO
-33,K2,MIMOSA,MIMOSA
-34,K3,NUBUCK,NUBUCK
-35,K4,GEKO,GEKO
-36,K5,OREGON BLACK,OREGON BLACK
-37,K6,Camelia,Camelia
-38,K7,SHADOW,ชาโดว์
-39,K8,CASHMERE BEIGE,
-40,K9,LINDBERG OAK,
-41,L1,GREY SAND,เกรย์แซนด์
-42,L2,LINDBERG OAK,
-43,L3,VALACUS,
-44,01,WHITE,ขาว
-45,02,I-WALNUT,ไอ-วอลนัท
-46,03,ESPRESSO,เอสเพรสโซ
-47,04,WHITE OAK,ไวท์โอ๊ค
-48,05,MID GLOSS,ขาว-มิดกรอส
-49,06,BLACK,ดำ
-50,07,GREY TWIST,เกรย์ ทวิส
-51,08,IVORY TWIST,ไอเวอร์รี่ ทวิส
-52,09,LIGHT WHITE,ขาว-ไลท์ไวท์
-53,10,COOL WHITE,ขาว-คูลไวท์
-54,11,BLACK MUSTANG,ดำมัสแตง
-55,12,MILD VIOLET,ม่วง-มายด์ ไวโอเลต
-56,13,ITALIAN BROWN,อิตาเลี่ยนบราวน์
-57,14,MOCHA BROWN,มอคค่าบราวน์
-58,15,BLACK FLORAL,ดำฟลอรอล
-59,16,LIGHT GREEN,เขียว-ไลท์กรีน
-60,17,MAPLE,เมเปิ้ล
-61,18,ORANGE,ส้ม
-62,19,GREEN,เขียว
-63,20,VIOLA,ไวโอล่า
-64,21,GLODEN SUN,เหลือง-โกลเด้นซัน
-65,22,TURQOUISE,เทอร์คอยซ์
-66,23,REFLECT,รีเฟล็กซ์
-67,24,FROSTED GLASS,ฟรอสกลาส
-68,25,ALUMINUM,อลูมิเนียม
-69,26,CREAM,ครีม
-70,27,GRIGIO,กริจิโอ
-71,28,CREAMBLACKFLORAL,ครีม-ดำฟรอรอล
-72,29,MARRONE,มารูน
-73,30,124-02F,หนึ่ง สอง สี่ ศูนย์สอง เอฟ
-74,31,RED,แดง
-75,32,YELLOW,เหลือง
-76,33,BROWN,น้ำตาล
-77,34,GREY,เทา
-78,35,SILVER,เงิน
-79,36,WENGE,เวงเก้
-80,37,WALNUT,วอลนัท
-81,38,PINK,ชมพู
-82,39,CROMIUM,โครเมียม
-83,40,BEIGE,เบจ
-84,41,BLUE,น้ำเงิน
-85,42,GOLD,ทอง
-86,43,PEARL WHITE,ขาวมุก
-87,44,PURPLE,ม่วง-เพอร์เพิล
-88,45,BEECH,บีช
-89,46,CHARCOLE,ชาร์โคล
-90,48,CLEAR,ใส
-91,53,NATURAL,เนเชอร์รอล
-92,54,PRINTING,พริ้นติ้ง
-93,58,MULTI-COLOUR,มัลติคัลเลอร์
-94,61,OAK,โอ๊ค
-95,62,CHERRY,เชอร์รี่
-96,65,TORTORA,ทอร์โทร่า
-97,66,EBONY,อีโบนี่
-98,74,NATURAL WOOD,เนเชอร์รอล วู้ด
-99,75,BRONZE,บรอนซ์
-100,83,IVORY,ไอเวอร์รี่
-101,86,LIGHT OAK,ไลท์โอ๊ค
-102,91,SATIN NIKLE,ซาติน นิเกิล
-103,93,STAINLESS,สแตนเลส
-104,97,VIOLET,ไวโอแลต
-105,98,WHITE-ES,ขาว-อีเอส
-106,99,COPPER,คอปเปอร์
-107,A1,CROCO BLACK,จระเข้ดำ
-108,A2,CROCO WHITE,จระเข้ขาว
-109,A3,B-AFRICA,ดำ-แอฟฟาริกา
-110,A4,W-QUARTZ,ขาว-ควอท์
-111,A5,ANTIQUE WHITE WASH,แอนทิค ไวท์ วอช
-112,A6,Mocha,มอคค่า
-113,A7,Combi Brown,คอมบิ บราวน์
-114,A8,Light Macassar,ไลท์แมคคาซ่า
-115,A9,Canyon Oak,แคนยอนโอ๊ค
-116,B1,Mahogany,มะฮ็อคกานี
-117,B2,Almond Yosemite,อัลมอนด์ โยเสมิติ
-118,B3,SMOKE TIMBER,สโมค ทิมเบอร์
-119,B4,Hazel Timber,เฮเซล ทิมเบอร์
-120,B5,Grey Condotti,เกรย์ คอนดอชติ
-121,B6,Brass,แบรส
-122,B7,DARK SHERWOOD,ดาร์ค เชอร์วู้ด
-123,B8,SILVERA,ซิลเวียร่า
-124,B9,WATER BLUE,วอเตอร์ บลู
-125,C1,SOFT GREY,ซอฟท์ เกรย์
-126,C2,**ยกเลิก**,
-127,C3,GREY WOOD RIFT,เกรย์ วู้ดลิฟ
-128,C4,GOLD MIRROR,กระจกทอง
-129,C5,GREY MIRROR,กระจกเทา
-130,C6,HPL COPPER,เอชพีแอล คอปเปอร์
-131,C7,HPL BRONZE WAVE,เอชพีแอล บรอนซ์ เวฟ
-132,C8,SILVER MESH,ซิลเวอร์เมซ
-133,C9,OSTRICH CREAM,ครีม-หนังนกกระจอกเทศ
-134,D1,SERPENTE SAND,เซอร์เพนเต้ แซนด์
-135,D2,DARK EBONY,ดาร์ค อีโทนี่
-136,D3,WALNUT BURL,วอลนัท เบอล
-137,D4,BLACK MILLENIUM,ดำมิลเลนเนียม
-138,D5,SIENNA YOSEMITE,ซิเอ็นน่า โยสิเมติ
-139,D6,DARK SHADE,โทนสีเข้ม
-140,D7,LIGHT SHADE,โทนสีอ่อน
-141,D8,WHITE SHADE,โทนขาว
-142,D9,COLORFUL,โทนหลากสี
-143,E1,NEBULA BLACK,เนบิวลา แบล็ค
-144,E2,SCARLET BROWN,สการ์เล็ต บราวน์
-145,E3,COCOA BROWN,โกโก้ บราวน์
-146,E4,TRAVERTINE,ทราเวอร์ทีน
-147,E5,CARRARA,คาร์ลาล่า
-148,E6,AUTUMN BROWN,ออทัมน์บราวน์
-149,E7,SOLID OAK,โซลิดโอ๊ค
-150,F9,Denim,เดนิม
-151,F8,ROYAL ACACIA,รอยัล อคาเซีย
-152,G1,CINNAMON,ชินนามอน
-153,G2,NICKEL GLOSS,นิเกิล กรอส
-154,G3,MIRROR,กระจก
-155,G4,MALTA,มอลทา
-156,G5,STONE,สโตน
-157,CK,KITCHEN SET DIVANI,ชุดครัวดิวานี่
-158,CL,KITCHEN SET DOMINO,ชุดครัวโดมิโน
+NODE,LTEXT,LTEXT_T
+CM,KITCHEN SET KOURMET,ชุดครัวครูเม่
+G6,BRONZE WAVE,บรอนซ์ เวฟ
+G7,COPPER GLOSS,คอปเปอร์ กรอส
+G8,CREAMY,ครีมมี่
+G9,PINK GOLD,พิงก์ โกลด์
+H1,BRONZE GLOSS,บรอนซ์ กรอส
+H2,DIM GREY,ดิม เกรย์
+H3,SYRUP BROWN,ไซรัปบราวน์
+H4,IRCON BROWN,เซอร์คอน บราวน์
+H5,AMBER BROWN,เอมเบอร์ บราวน์
+H6,FOREST MAPLE,ฟอร์เรส เมเปิ้ล
+H7,S1,S1
+H8,S2,S2
+H9,S3,S3
+I1,VC1,VC1
+I2,VC2,VC2
+I3,VC3,VC3
+I4,VC4,VC4
+I5,VC5,VC5
+I6,PN,PN
+I7,OA,OA
+I8,LT,LT
+I9,CT-F,CT-F
+J1,CT-H,CT-H
+J2,SL,SL
+J3,Ceramenta,Ceramenta
+J4,ORVIETO,ORVIETO
+J5,EUROSOFT,EUROSOFT
+J6,KING,KING
+J7,VINTANGE,VINTANGE
+J8,SPRESSO,SPRESSO
+J9,MARCO,MARCO
+K1,TORO,TORO
+K2,MIMOSA,MIMOSA
+K3,NUBUCK,NUBUCK
+K4,GEKO,GEKO
+K5,OREGON BLACK,OREGON BLACK
+K6,Camelia,Camelia
+K7,SHADOW,ชาโดว์
+K8,CASHMERE BEIGE,
+K9,LINDBERG OAK,
+L1,GREY SAND,เกรย์แซนด์
+L2,LINDBERG OAK,
+L3,VALACUS,
+01,WHITE,ขาว
+02,I-WALNUT,ไอ-วอลนัท
+03,ESPRESSO,เอสเพรสโซ
+04,WHITE OAK,ไวท์โอ๊ค
+05,MID GLOSS,ขาว-มิดกรอส
+06,BLACK,ดำ
+07,GREY TWIST,เกรย์ ทวิส
+08,IVORY TWIST,ไอเวอร์รี่ ทวิส
+09,LIGHT WHITE,ขาว-ไลท์ไวท์
+10,COOL WHITE,ขาว-คูลไวท์
+11,BLACK MUSTANG,ดำมัสแตง
+12,MILD VIOLET,ม่วง-มายด์ ไวโอเลต
+13,ITALIAN BROWN,อิตาเลี่ยนบราวน์
+14,MOCHA BROWN,มอคค่าบราวน์
+15,BLACK FLORAL,ดำฟลอรอล
+16,LIGHT GREEN,เขียว-ไลท์กรีน
+17,MAPLE,เมเปิ้ล
+18,ORANGE,ส้ม
+19,GREEN,เขียว
+20,VIOLA,ไวโอล่า
+21,GLODEN SUN,เหลือง-โกลเด้นซัน
+22,TURQOUISE,เทอร์คอยซ์
+23,REFLECT,รีเฟล็กซ์
+24,FROSTED GLASS,ฟรอสกลาส
+25,ALUMINUM,อลูมิเนียม
+26,CREAM,ครีม
+27,GRIGIO,กริจิโอ
+28,CREAMBLACKFLORAL,ครีม-ดำฟรอรอล
+29,MARRONE,มารูน
+30,124-02F,หนึ่ง สอง สี่ ศูนย์สอง เอฟ
+31,RED,แดง
+32,YELLOW,เหลือง
+33,BROWN,น้ำตาล
+34,GREY,เทา
+35,SILVER,เงิน
+36,WENGE,เวงเก้
+37,WALNUT,วอลนัท
+38,PINK,ชมพู
+39,CROMIUM,โครเมียม
+40,BEIGE,เบจ
+41,BLUE,น้ำเงิน
+42,GOLD,ทอง
+43,PEARL WHITE,ขาวมุก
+44,PURPLE,ม่วง-เพอร์เพิล
+45,BEECH,บีช
+46,CHARCOLE,ชาร์โคล
+48,CLEAR,ใส
+53,NATURAL,เนเชอร์รอล
+54,PRINTING,พริ้นติ้ง
+58,MULTI-COLOUR,มัลติคัลเลอร์
+61,OAK,โอ๊ค
+62,CHERRY,เชอร์รี่
+65,TORTORA,ทอร์โทร่า
+66,EBONY,อีโบนี่
+74,NATURAL WOOD,เนเชอร์รอล วู้ด
+75,BRONZE,บรอนซ์
+83,IVORY,ไอเวอร์รี่
+86,LIGHT OAK,ไลท์โอ๊ค
+91,SATIN NIKLE,ซาติน นิเกิล
+93,STAINLESS,สแตนเลส
+97,VIOLET,ไวโอแลต
+98,WHITE-ES,ขาว-อีเอส
+99,COPPER,คอปเปอร์
+A1,CROCO BLACK,จระเข้ดำ
+A2,CROCO WHITE,จระเข้ขาว
+A3,B-AFRICA,ดำ-แอฟฟาริกา
+A4,W-QUARTZ,ขาว-ควอท์
+A5,ANTIQUE WHITE WASH,แอนทิค ไวท์ วอช
+A6,Mocha,มอคค่า
+A7,Combi Brown,คอมบิ บราวน์
+A8,Light Macassar,ไลท์แมคคาซ่า
+A9,Canyon Oak,แคนยอนโอ๊ค
+B1,Mahogany,มะฮ็อคกานี
+B2,Almond Yosemite,อัลมอนด์ โยเสมิติ
+B3,SMOKE TIMBER,สโมค ทิมเบอร์
+B4,Hazel Timber,เฮเซล ทิมเบอร์
+B5,Grey Condotti,เกรย์ คอนดอชติ
+B6,Brass,แบรส
+B7,DARK SHERWOOD,ดาร์ค เชอร์วู้ด
+B8,SILVERA,ซิลเวียร่า
+B9,WATER BLUE,วอเตอร์ บลู
+C1,SOFT GREY,ซอฟท์ เกรย์
+C2,**ยกเลิก**,
+C3,GREY WOOD RIFT,เกรย์ วู้ดลิฟ
+C4,GOLD MIRROR,กระจกทอง
+C5,GREY MIRROR,กระจกเทา
+C6,HPL COPPER,เอชพีแอล คอปเปอร์
+C7,HPL BRONZE WAVE,เอชพีแอล บรอนซ์ เวฟ
+C8,SILVER MESH,ซิลเวอร์เมซ
+C9,OSTRICH CREAM,ครีม-หนังนกกระจอกเทศ
+D1,SERPENTE SAND,เซอร์เพนเต้ แซนด์
+D2,DARK EBONY,ดาร์ค อีโทนี่
+D3,WALNUT BURL,วอลนัท เบอล
+D4,BLACK MILLENIUM,ดำมิลเลนเนียม
+D5,SIENNA YOSEMITE,ซิเอ็นน่า โยสิเมติ
+D6,DARK SHADE,โทนสีเข้ม
+D7,LIGHT SHADE,โทนสีอ่อน
+D8,WHITE SHADE,โทนขาว
+D9,COLORFUL,โทนหลากสี
+E1,NEBULA BLACK,เนบิวลา แบล็ค
+E2,SCARLET BROWN,สการ์เล็ต บราวน์
+E3,COCOA BROWN,โกโก้ บราวน์
+E4,TRAVERTINE,ทราเวอร์ทีน
+E5,CARRARA,คาร์ลาล่า
+E6,AUTUMN BROWN,ออทัมน์บราวน์
+E7,SOLID OAK,โซลิดโอ๊ค
+F9,Denim,เดนิม
+F8,ROYAL ACACIA,รอยัล อคาเซีย
+G1,CINNAMON,ชินนามอน
+G2,NICKEL GLOSS,นิเกิล กรอส
+G3,MIRROR,กระจก
+G4,MALTA,มอลทา
+G5,STONE,สโตน
+CK,KITCHEN SET DIVANI,ชุดครัวดิวานี่
+CL,KITCHEN SET DOMINO,ชุดครัวโดมิโน
